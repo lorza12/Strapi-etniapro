@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_object_product_specifications",
+  "info": {
+    "displayName": "specifications",
+    "icon": "server",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "values": {
+      "type": "string"
+    }
+  }
+}

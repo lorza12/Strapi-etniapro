@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_feacture_product_feactures",
+  "info": {
+    "displayName": "feactures",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "feature": {
+      "type": "text"
+    }
+  }
+}
